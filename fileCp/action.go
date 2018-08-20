@@ -3,9 +3,9 @@ package fileCp
 import (
 	"encoding/json"
 	"fmt"
-	"Commond-satl/saltstack/http"
-	"Commond-satl/saltstack"
-	"Commond-satl/saltstack/token"
+	"Commond-satl/http"
+	"Commond-satl/token"
+
 )
 
 func CPDir(Targethost []string, srcname string, targetpath string)  bool {

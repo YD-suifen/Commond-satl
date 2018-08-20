@@ -3,7 +3,7 @@ package token
 import (
 	"encoding/json"
 	"fmt"
-	"Commond-satl/saltstack/http"
+	"Commond-satl/http"
 )
 
 func Token() (string, error) {

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 	"strconv"
-	"Commond-satl/saltstack/saltnode"
-	"Commond-satl/saltstack/fileCp"
+	"Commond-satl/saltnode"
+	"Commond-satl/fileCp"
 )
 
 var listminio map[int]string
